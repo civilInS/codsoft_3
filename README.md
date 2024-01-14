@@ -2,6 +2,9 @@
 
 This repository contains the code for a straightforward calculator implemented using HTML, CSS, and JavaScript. The calculator features a clean and responsive user interface, providing basic arithmetic operations.
 
+## screenshot
+ ![alt screenshot](https://github.com/civilInS/codsoft_3/blob/main/img/Screenshot%202024-01-14%20at%207.03.16%E2%80%AFAM.png)
+
 ## Features
 
 - **Responsive Design:** The calculator is designed to be responsive, ensuring a seamless user experience across various devices.
